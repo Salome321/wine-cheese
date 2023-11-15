@@ -45,3 +45,7 @@ footer {
     margin-top: 5px auto 0;
 }
 
+nav {
+    margin: 0 0 0 -30px;
+    padding: 0;
+}

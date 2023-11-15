@@ -3,21 +3,45 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #777777;
+    background-color: #700020;
     color: white;
 }
 
 
 .image-container {
-    margin: 0 auto;
+    margin: 50px auto;
+    width: 100%;
+    height: auto;
+}
+
+img {
     width: 75%;
+    height: auto;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+#id {
+    padding: 75px 500px;
 }
 
 h2 {
-    margin: 50px;
+    margin: 0 0 50px 0;
 }
 
 a {
-    color: #990000;
+    color: black;
+}
+
+h1 {
+    padding: 10px 0 0 0;
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    margin-top: 5px;
 }
 
